@@ -1,0 +1,5 @@
+{
+  "name": "Badminton Court Manager",
+  "description": "An application to calculate and manage costs for a badminton session, including court fees, water, and shuttlecock surcharges for players.",
+  "requestFramePermissions": []
+}
